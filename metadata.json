@@ -1,0 +1,5 @@
+{
+  "name": "Cricket Analyst AI Dashboard",
+  "description": "An AI-powered dashboard that takes a cricketer's profile URL, generates a detailed visual report with various charts, and provides an executive summary with actionable insights for improvement. Includes an AI chatbot for follow-up questions.",
+  "requestFramePermissions": []
+}
